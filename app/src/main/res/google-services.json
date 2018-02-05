@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1088582068806",
+    "firebase_url": "https://paynpark-9540e.firebaseio.com",
+    "project_id": "paynpark-9540e",
+    "storage_bucket": "paynpark-9540e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088582068806:android:06ee3fcf09eec8df",
+        "android_client_info": {
+          "package_name": "com.example.gaurav.paynpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088582068806-kgvast4r115nb0ejduji16m3vfl8edi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCVz7XT2Q00r9Ws5XO3_GbnMxrbMjIsuY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
