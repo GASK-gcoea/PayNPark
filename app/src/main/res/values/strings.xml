@@ -32,6 +32,20 @@
     <string name="sign_in">Sign In</string>
     <string name="user_name">User Name</string>
     <string name="bicycle">Bicycle</string>
+    <string name="Logout">Logout</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="email_verification">Verify Email</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="auth_failed">AUTHORISATION FAILED</string>
+    <string name="emailpassword_status_fmt">Email Password Correct</string>
+    <string name="profile">Profile</string>
+    <string name="view_edit_user_profile">View/edit user profile</string>
+    <string name="qr_code">QR Code</string>
+    <string name="generate_qr_code_from_vehicle_number">Generate QR code</string>
+    <string name="payment">Payment</string>
+    <string name="view_payment_details">View payment details</string>
+    <string name="user_log">Log</string>
+    <string name="view_user_log">View user log</string>
     <string-array name="vehicle_type">
         <item>Two Wheeler</item>
         <item>Four Wheeler</item>

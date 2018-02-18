@@ -31,7 +31,7 @@ public class WelcomeActivity extends AppCompatActivity implements View.OnClickLi
     {
      if(v == enter)
      {
-         goToLogin = new Intent(WelcomeActivity.this,LoginActivity.class);
+         goToLogin = new Intent(WelcomeActivity.this,EmailPasswordActivity.class);
          startActivity(goToLogin);
      }
     }

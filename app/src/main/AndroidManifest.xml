@@ -22,15 +22,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LoginActivity" />
+
 
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
 
-        <activity android:name=".SignInActivity" />
-        <activity android:name=".EmptyActivity" />
 
+        <activity android:name=".EmailPasswordActivity" />
+
+        <activity android:name=".DashActivity" />
+        <activity android:name=".UserProfileActivity" />
+        <activity android:name=".UserQRActivity" />
+        <activity android:name=".UserPaymentActivity" />
+        <activity android:name=".UserLogActivity"></activity>
     </application>
 
 </manifest>
